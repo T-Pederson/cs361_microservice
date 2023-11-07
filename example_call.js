@@ -1,4 +1,4 @@
-const apiKey = "c234792adad6494fbf71c9053e670b02";    // Input your API key here from your Spoonacular profile
+const apiKey = "";    // Input your API key here from your Spoonacular profile
 
 // An example call that gets a list of 5 recipes from Spoonacular's Find By Ingredients API and prints out a randomly chosen recipe's detail instructions in string format
   // https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients

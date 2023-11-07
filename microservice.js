@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port = 8000;
-const apiKey = "c234792adad6494fbf71c9053e670b02";    // Input your API key here from your Spoonacular profile
+const apiKey = "";    // Input your API key here from your Spoonacular profile
 
 // Randomly choses a recipe ID in the list of recipe IDs given
 // Returns the recipe ID and the Get Analyzed Recipe Instructions API response from Spoonacular for that randomly chosen recipe
