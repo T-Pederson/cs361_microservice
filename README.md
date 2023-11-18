@@ -7,8 +7,8 @@ HOW TO USE:
 1. Input your Spoonacular API key into the microservice.js file (line 4)
 2. Start the microservice by navigating to the cs361_microservice directory and typing "node microservice.js" into a terminal
 3. Send a GET request to http://localhost:8000?recipes=${recipeIDs} via another program
-  * recipeIDs should be a stringified list of recipe IDs obtained from Spoonacular
-  * See example_call.js for an example on how to create this stringified list of recipe IDs
+  1. recipeIDs should be a stringified list of recipe IDs obtained from Spoonacular
+  2. See example_call.js for an example on how to create this stringified list of recipe IDs
 At this point, the response from this GET request will contain JSON formatted detailed recipe information, which you can then parse
 
 HOW TO RUN AN EXAMPLE CALL:
