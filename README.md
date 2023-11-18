@@ -19,3 +19,6 @@ HOW TO RUN AN EXAMPLE CALL:
 KNOWN ISSUES:
     Some recipes will not actually have any detailed instructions provided from Spoonacular (such as recipe ID 73420). In this case, the microservice will just send back empty data.
     Some recipes will only contain very minimal information (such as recipe ID 157103), this is something to keep an eye out for as well.
+
+UML Sequence Diagram
+![UML Sequence Diagram](image.png)
